@@ -1,5 +1,8 @@
 # Assumptions
 
+*Independent case study by Matt Walker. Northwind Air is fictional and every figure below is
+synthetic. Not affiliated with or endorsed by Hopper.*
+
 Every driver in the model, with the basis it rests on. This is the same table as the Assumptions
 tab of the Google Sheet, which is the live version.
 
